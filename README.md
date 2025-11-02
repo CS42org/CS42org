@@ -12,7 +12,6 @@
   <a href="mailto:hello@cs42.org">hello@cs42.org</a> ·
   <a href="https://instagram.com/">Instagram</a> ·
   <a href="https://tiktok.com/">TikTok</a> ·
-  <a href="https://x.com/">X</a>
 </p>
 
 ---
@@ -34,8 +33,6 @@
 
 ### 🚀 Start Here
 - **Projects Gallery:** <a href="https://cs42.org/projects">cs42.org/projects</a>  
-- **Blog / Updates:** <a href="https://cs42.org/blog">cs42.org/blog</a>  
-- **Trainings:** <a href="https://cs42.org/trainings">cs42.org/trainings</a>
 
 ### 🧪 Featured Repos
 <!-- Replace with real repos you’ll pin -->
