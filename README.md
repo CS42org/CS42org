@@ -20,7 +20,7 @@
 **Empowering innovation through knowledge sharing.** We share hands-on projects and learning resources in AI, ML, and Computer Science—rooted in the *Build → Measure → Learn* loop.
 
 ### 👤 About
-**Mohammed Shehada** — Curriculum Specialist, UAE MoE. Led national AI/ML curriculum scaffolding since 2019; author of lab-driven content; M.Sc. on Speech Emotion Recognition; contributor to the UAE **AI Literacy Programme (2025)**.
+**Mohammed Shehada** — Senior Curriculum Developer, UAE MoE. Led national AI/ML curriculum scaffolding since 2019; author of hands-on learning content; M.Sc. Computer Engineering Research field: Speech signal processing, data analysis, computer vision, emotion recognition**.
 <br/><sub>More: <a href="https://cs42.org/about">cs42.org/about</a></sub>
 
 ### 🧠 Focus Areas
