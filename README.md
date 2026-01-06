@@ -1,8 +1,8 @@
 <!-- CS42 / Mohammed Shehada — GitHub Profile Landing Page -->
 
 <p align="center">
-  <img src="<img width="375" height="375" alt="image" src="https://github.com/user-attachments/assets/19ed7cb7-a785-4f54-a186-4df72e690f02" />
-" alt="CS42 Logo" width="96" />
+<img width="375" height="375" alt="image" src="https://github.com/user-attachments/assets/405bc177-2f45-400d-a8c1-9c1a2e26f547" />
+
 </p>
 
 <h1 align="center">CS42 — Build · Measure · Learn</h1>
