@@ -43,7 +43,7 @@
 - `edge-ml-kit` — Embedded ML examples (Raspberry Pi / microcontrollers)
 
 ### 🔧 Tech Stack (selection)
-Python · PyTorch · Ultralytics/YOLO · scikit-learn · OpenCV · FastAPI · Jupyter · Pandas · Matplotlib · Arduino/RPi · RoboFlow · Tensorflow · Keras · Lbrosa · Arduino/RPi
+Python · PyTorch · Ultralytics/YOLO · scikit-learn · OpenCV · FastAPI · Jupyter · Pandas · Matplotlib · Plotly · Arduino/RPi · RoboFlow · Tensorflow · Keras · Lbrosa · Anaconda
 
 ### 📬 Stay in the Loop
 Subscribe to the newsletter on <a href="https://cs42.org">cs42.org</a> or email <a href="mailto:hello@cs42.org">hello@cs42.org</a> for collaborations and workshops.
