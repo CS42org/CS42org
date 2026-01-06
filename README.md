@@ -34,7 +34,7 @@
 ### 🚀 Start Here
 - **Projects Gallery:** <a href="https://cs42.org/projects">cs42.org/projects</a>  
 
-### 🧪 Featured Repos
+### 🧪 Featured Work
 <!-- Replace with real repos you’ll pin -->
 - `sight-assist` — YOLO-based visual assistance toolkit
 - `ser-lab` — Speech Emotion Recognition experiments (mRMR+GWO)
@@ -42,7 +42,7 @@
 - `edge-ml-kit` — Embedded ML examples (Raspberry Pi / microcontrollers)
 
 ### 🔧 Tech Stack (selection)
-Python · PyTorch · Ultralytics/YOLO · scikit-learn · OpenCV · FastAPI · Jupyter · Pandas · Matplotlib · Arduino/RPi
+Python · PyTorch · Ultralytics/YOLO · scikit-learn · OpenCV · FastAPI · Jupyter · Pandas · Matplotlib · Arduino/RPi · RoboFlow · Tensorflow · Keras · Lbrosa · Arduino/RPi
 
 ### 📬 Stay in the Loop
 Subscribe to the newsletter on <a href="https://cs42.org">cs42.org</a> or email <a href="mailto:hello@cs42.org">hello@cs42.org</a> for collaborations and workshops.
