@@ -19,8 +19,6 @@
 ### ✨ Mission
 **Empowering innovation through knowledge sharing.** We share hands-on projects and learning resources in AI, ML, and Computer Science—rooted in the *Build → Measure → Learn* loop.
 
-### 👤 About
-<br/><sub>More: <a href="https://cs42.org/about">cs42.org/about</a></sub>
 
 ### 🧠 Focus Areas
 | Area | What you’ll find |
