@@ -44,18 +44,23 @@
 ---
 
 ### 🚀 Featured Repositories
-| Repo | What it teaches |
-|------|-----------------|
-| [CNN_Image_CLassification](https://github.com/CS42org/CNN_Image_CLassification) | End-to-end traffic-sign classifier with train / predict / GUI modes |
-| [Grad-CAM-Visualization-Demo-TF-Flowers-CNN-](https://github.com/CS42org/Grad-CAM-Visualization-Demo-TF-Flowers-CNN-) | Explainable AI — visualize what a CNN looks at |
-| [ML-Models-Comparison---Speed-Accuracy](https://github.com/CS42org/ML-Models-Comparison---Speed-Accuracy) | Compare KNN, DT, RF, MLP, XGBoost, CNN on the same task |
-| [Decision_Tree_G10](https://github.com/CS42org/Decision_Tree_G10) | Beginner Decision Tree on a flower dataset |
-| [Flowers_Type_DT](https://github.com/CS42org/Flowers_Type_DT) | Sister Decision Tree project for first-timers |
-| [Location-Decision-Tree-](https://github.com/CS42org/Location-Decision-Tree-) | Tabular Decision Tree on a small business dataset |
-| [Lab_activity](https://github.com/CS42org/Lab_activity) | First-OpenCV lab — read center-pixel BGR from webcam |
-| [Nature-sounds](https://github.com/CS42org/Nature-sounds) | Tkinter ambient sound mixer (rain, birds, campfire…) |
-| [Keras-GAN](https://github.com/CS42org/Keras-GAN) | GAN reference implementations (study fork) |
-| [yolov10](https://github.com/CS42org/yolov10) | Real-time end-to-end object detection (study fork) |
+Ordered from first steps to advanced. Every repo has a README with setup steps, run commands, and learning goals.
+
+| Level | Repo | What it teaches |
+|-------|------|-----------------|
+| 🟢 Beginner | [opencv-center-pixel](https://github.com/CS42org/opencv-center-pixel) | First OpenCV lab: read the center pixel's BGR value from your webcam |
+| 🟢 Beginner | [flowers-decision-tree](https://github.com/CS42org/flowers-decision-tree) | First supervised learning project: Decision Tree on a small flower dataset |
+| 🟢 Beginner | [decision-tree-g10](https://github.com/CS42org/decision-tree-g10) | Classroom (Unit 9) version of the flower Decision Tree with the original activity pack |
+| 🟢 Beginner | [location-decision-tree](https://github.com/CS42org/location-decision-tree) | Decision Tree on tabular business data: will a shop location succeed? |
+| 🟡 Intermediate | [teachable-machine-local](https://github.com/CS42org/teachable-machine-local) | Run a Google Teachable Machine model locally in Python with Keras and OpenCV |
+| 🟡 Intermediate | [opencv-lab-activity](https://github.com/CS42org/opencv-lab-activity) | Train a small CNN on your own image folders and classify through a Tkinter GUI |
+| 🟡 Intermediate | [image-classifier-gui](https://github.com/CS42org/image-classifier-gui) | Desktop app to train, test, and save Keras image classifiers with a live accuracy plot |
+| 🟡 Intermediate | [nature-sounds](https://github.com/CS42org/nature-sounds) | Tkinter + pygame ambient sound mixer (rain, birds, campfire…) |
+| 🔴 Advanced | [cnn-image-classification](https://github.com/CS42org/cnn-image-classification) | End to end traffic sign classifier with train / predict / GUI modes |
+| 🔴 Advanced | [ml-models-comparison](https://github.com/CS42org/ml-models-comparison) | Benchmark KNN, DT, RF, MLP, XGBoost, and CNN on one task: accuracy vs training time |
+| 🔴 Advanced | [grad-cam-visualization](https://github.com/CS42org/grad-cam-visualization) | Explainable AI: visualize what a CNN looks at with Grad-CAM |
+
+**Reference forks:** [Keras-GAN](https://github.com/CS42org/Keras-GAN) · [yolov10](https://github.com/CS42org/yolov10)
 
 ---
 
